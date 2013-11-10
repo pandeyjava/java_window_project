@@ -6,7 +6,7 @@
 	<artifactId>CompleteDelete</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
-
+<!-- this is test -->
 	<name>CompleteDelete</name>
 	<url>http://maven.apache.org</url>
 
